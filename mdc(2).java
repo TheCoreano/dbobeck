@@ -26,4 +26,3 @@ public class mdc{
 		return mdc;
 	}
 }
-/* Ta assistindo beck ? */

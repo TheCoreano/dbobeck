@@ -1,0 +1,3 @@
+echo ...
+javac -cp bin -d bin src\Felizes\Numero.java
+javac -cp bin -d bin src\Felizes\Main.java

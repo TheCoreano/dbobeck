@@ -1,0 +1,3 @@
+echo ...
+javac -cp bin -d bin src\StringstoInt\Strings.java
+javac -cp bin -d bin src\StringstoInt\Main.java
